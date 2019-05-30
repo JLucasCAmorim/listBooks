@@ -3,7 +3,7 @@ import api from "../../services/api";
 
 import BooksActions from "../ducks/books";
 
-const key = 'AIzaSyAOefPjsHvx5rO5vvB7-GEAqvCbAu36jfw';
+const key = 'Put your key here';
 
 export function* moreBooks(action) {
   const length = action.size;
